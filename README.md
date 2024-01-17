@@ -16,3 +16,11 @@
     Модуль 3. Класичне машинне навчання. Лінійна регресія. Перенавчання. 
 
     #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #matplotlib #scikit-learn #linear-regression
+
+
+4. https://github.com/lexxai/goit_python_ds_hw_04
+   
+   Модуль 4. Класифікація та оцінка роботи моделі 
+
+    #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #matplotlib #scikit-learn
+
