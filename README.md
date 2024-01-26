@@ -20,7 +20,11 @@
 
 4. https://github.com/lexxai/goit_python_ds_hw_04
    
-   Модуль 4. Класифікація та оцінка роботи моделі 
+   Модуль 4. Класифікація та оцінка роботи моделі. Лінійна регресія: перенавчання та регуляризація.
 
-    #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #matplotlib #scikit-learn
+   #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #matplotlib #scikit-learn #linear-regression #regression #ridge-regression #lasso-regression
+
+5. https://github.com/lexxai/goit_python_ds_hw_05
+   
+   Модуль 5. 
 
