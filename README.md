@@ -29,3 +29,8 @@
    Модуль 5. Інші алгоритми навчання з учителем. Метод опорних векторів - Support Vector Machine, SVM. Дерева рішень - RandomForestClassifier, XGBClassifier.
 
    #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #scikit-learn #classification #svm-model #svm-classifier #random-forest-classifier #XGBClassifier
+
+6. https://github.com/lexxai/goit_python_ds_hw_06
+
+   Модуль 6. Навчання без вчителя.
+
