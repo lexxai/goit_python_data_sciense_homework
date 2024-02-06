@@ -32,5 +32,5 @@
 
 6. https://github.com/lexxai/goit_python_ds_hw_06
 
-   Модуль 6. Навчання без вчителя.
-
+   Модуль 6. Навчання без вчителя.  Кластерізація. KMeans. Principal Component Analysis 
+   #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #scikit-learn #pca #kmeans #kmeans-clustering #silhouette
