@@ -34,4 +34,11 @@
 
    Модуль 6. Навчання без вчителя.  Кластерізація. KMeans. Principal Component Analysis
    
-   #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #scikit-learn #pca #kmeans #kmeans-clustering #silhouette #tsne #kmeans-clustering #optics-clustering #dbscan-clustering #opentsne #hdbscan-clustering 
+   #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #scikit-learn #pca #kmeans #kmeans-clustering #silhouette #tsne #kmeans-clustering #optics-clustering #dbscan-clustering #opentsne #hdbscan-clustering
+
+
+7. https://github.com/lexxai/goit_python_ds_hw_07
+
+   Модуль 7.
+   
+   #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #scikit-learn 
