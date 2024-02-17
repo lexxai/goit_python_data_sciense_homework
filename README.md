@@ -39,6 +39,13 @@
 
 7. https://github.com/lexxai/goit_python_ds_hw_07
 
-   Модуль 7.
+   Модуль 7. Рекомендаційні системи. Surprise. SVD.
    
-   #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #scikit-learn 
+   #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #scikit-learn #matrix-factorization #recommendation-system #svd #surprise #svd-matrix-factorisation #svdpp
+
+
+8. https://github.com/lexxai/goit_python_ds_hw_08
+
+   Модуль 8.
+
+  #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas
