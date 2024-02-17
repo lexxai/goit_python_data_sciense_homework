@@ -48,4 +48,4 @@
 
    Модуль 8.
 
-  #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas
+   #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas
