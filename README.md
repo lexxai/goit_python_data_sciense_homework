@@ -49,3 +49,9 @@
    Модуль 8. Глибоке навчання. Tensorflow. MNIST.
 
    #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #Tensorflow
+
+9. https://github.com/lexxai/goit_python_ds_hw_09 🔒
+
+   Модуль 9. 
+
+   #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #Tensorflow
