@@ -46,6 +46,6 @@
 
 8. https://github.com/lexxai/goit_python_ds_hw_08 🔒
 
-   Модуль 8. Модуль 8. Глибоке навчання. Tensorflow. 
+   Модуль 8. Глибоке навчання. Tensorflow. MNIST.
 
    #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #Tensorflow
