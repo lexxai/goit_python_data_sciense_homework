@@ -52,7 +52,7 @@
 
 9. https://github.com/lexxai/goit_python_ds_hw_09 🔒
 
-   Модуль 9. 
+   Модуль 9. Підбір гіперпараметрів НМ. Глибоке навчання. Tensorflow. Keras.
 
    #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #Tensorflow
 
