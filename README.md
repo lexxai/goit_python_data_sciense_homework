@@ -58,7 +58,7 @@
 
 10. https://github.com/lexxai/goit_python_ds_hw_10 🔒
 
-    Модуль 10.
+    Модуль 10. Згорткові нейронні мережі. Tensorflow. Keras.
 
     #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #Tensorflow
 
