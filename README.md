@@ -53,8 +53,14 @@
 9. https://github.com/lexxai/goit_python_ds_hw_09 🔒
 
    Модуль 9. Підбір гіперпараметрів НМ. Глибоке навчання. Tensorflow. Keras.
+   
+   #python #data-science #numpy #keras #keras-tensorflow# adam-optimizer #google-colab 
 
-   #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #Tensorflow
+10. https://github.com/lexxai/goit_python_ds_hw_10 🔒
+
+    Модуль 10.
+
+    #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #Tensorflow
 
 ----
 
