@@ -62,6 +62,20 @@
 
     #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #Tensorflow
 
+11. https://github.com/lexxai/goit_python_ds_hw_11 🔒
+
+    Модуль 11.
+
+    #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #Tensorflow
+
+12. https://github.com/lexxai/goit_python_ds_hw_12 🔒
+
+    Модуль 12.
+
+    #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #Tensorflow
+
+Project...
+
 ----
 
 🔒 - обмежений доступ за проханням представників навчального закладу, до закінчення періоду навчальної програми.
