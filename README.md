@@ -64,15 +64,17 @@
 
 11. https://github.com/lexxai/goit_python_ds_hw_11 🔒
 
-    Модуль 11.
+    Модуль 11. Рекурентні нейронні мережі. Tensorflow. Keras. 
 
     #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #Tensorflow
 
 12. https://github.com/lexxai/goit_python_ds_hw_12 🔒
 
-    Модуль 12.
+    Модуль 12. Основи NLP. 
 
-    #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #Tensorflow
+    #python #data-science #nlp #spacy #nltk #nlp-machine-learning #spacy-nlp #nlp-spacy #nltk-tokenizer 
+
+
 
 Project...
 
