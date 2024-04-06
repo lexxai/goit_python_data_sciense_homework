@@ -24,51 +24,51 @@
 
    #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #matplotlib #scikit-learn #linear-regression #regression #ridge-regression #lasso-regression
 
-5. https://github.com/lexxai/goit_python_ds_hw_05 🔒
+5. https://github.com/lexxai/goit_python_ds_hw_05 
    
    Модуль 5. Інші алгоритми навчання з учителем. Метод опорних векторів - Support Vector Machine, SVM. Дерева рішень - RandomForestClassifier, XGBClassifier.
 
    #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #scikit-learn #classification #svm-model #svm-classifier #random-forest-classifier #XGBClassifier
 
-6. https://github.com/lexxai/goit_python_ds_hw_06 🔒
+6. https://github.com/lexxai/goit_python_ds_hw_06 
 
    Модуль 6. Навчання без вчителя.  Кластерізація. KMeans. Principal Component Analysis
    
    #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #scikit-learn #pca #kmeans #kmeans-clustering #silhouette #tsne #kmeans-clustering #optics-clustering #dbscan-clustering #opentsne #hdbscan-clustering
 
 
-7. https://github.com/lexxai/goit_python_ds_hw_07 🔒
+7. https://github.com/lexxai/goit_python_ds_hw_07 
 
    Модуль 7. Рекомендаційні системи. Surprise. SVD.
    
    #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #scikit-learn #matrix-factorization #recommendation-system #svd #surprise #svd-matrix-factorisation #svdpp
 
 
-8. https://github.com/lexxai/goit_python_ds_hw_08 🔒
+8. https://github.com/lexxai/goit_python_ds_hw_08 
 
    Модуль 8. Глибоке навчання. Tensorflow. MNIST.
 
    #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #Tensorflow
 
-9. https://github.com/lexxai/goit_python_ds_hw_09 🔒
+9. https://github.com/lexxai/goit_python_ds_hw_09 
 
    Модуль 9. Підбір гіперпараметрів НМ. Глибоке навчання. Tensorflow. Keras.
    
    #python #data-science #numpy #keras #keras-tensorflow# adam-optimizer #google-colab 
 
-10. https://github.com/lexxai/goit_python_ds_hw_10 🔒
+10. https://github.com/lexxai/goit_python_ds_hw_10 
 
     Модуль 10. Згорткові нейронні мережі. Tensorflow. Keras.
 
     #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #Tensorflow
 
-11. https://github.com/lexxai/goit_python_ds_hw_11 🔒
+11. https://github.com/lexxai/goit_python_ds_hw_11 
 
     Модуль 11. Рекурентні нейронні мережі. Tensorflow. Keras. 
 
     #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #Tensorflow
 
-12. https://github.com/lexxai/goit_python_ds_hw_12 🔒
+12. https://github.com/lexxai/goit_python_ds_hw_12 
 
     Модуль 12. Основи NLP. 
 
